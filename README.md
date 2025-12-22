@@ -1,3 +1,6 @@
+### Start here
+Open the notebook: `notebooks/your_notebook_name.ipynb`
+
 ## GR vs BGR gravitational wave classification (1D CNN)
 
 This repository contains a first working pipeline to classify simulated gravitational wave signals in the frequency domain as GR vs beyond GR (BGR), using a 1D convolutional neural network.

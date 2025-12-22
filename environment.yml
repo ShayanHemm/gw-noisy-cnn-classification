@@ -1,0 +1,17 @@
+name: gw-ml
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - scikit-learn
+  - h5py
+  - pycbc
+  - lalsuite
+  - jupyterlab
+  - pip
+  - pip:
+      - tensorflow

@@ -1,5 +1,5 @@
 ### Start here
-Open the notebook: `notebooks/your_notebook_name.ipynb`
+Open the notebook: `pycbc_waveforms-Copy27_Response_Gaussian_Binary.ipyn`
 
 ## GR vs BGR gravitational wave classification (1D CNN)
 

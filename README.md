@@ -1,5 +1,6 @@
 ### Start here
-Open the notebook: `notebooks/gr_bgr_cnn_binary.ipynb`
+[Open the notebook](./notebooks/gr_bgr_cnn_binary.ipynb)
+
 
 ## GR vs BGR gravitational wave classification (1D CNN)
 

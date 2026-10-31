@@ -8,5 +8,6 @@ __pycache__/
 *.h5
 *.ckpt
 *.log
-data/
+data/*
+!data/bbh_events.csv
 outputs/

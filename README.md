@@ -35,6 +35,14 @@ At β = 3 × 10⁻⁴ the network separates the two classes completely on the he
 2. Sweep β downward to find the smallest deformation the classifier still detects, and compare it with the match-based threshold.
 3. Calibrate the output probabilities and summarise the evidence per event.
 
+## Where this went
+
+This notebook is an early baseline from my PhD work at Universität Heidelberg. The full studies are:
+
+- L. Heisenberg, S. Hemmatyar, H. Villarrubia-Rojo. *Testing General Relativity Through Gravitational Wave Classification: A Convolutional Neural Network Framework.* [arXiv:2605.02453](https://arxiv.org/abs/2605.02453) (2026).
+- L. Heisenberg, S. Hemmatyar. *Identifiability Limits of Gravitational Wave Phase Deviations: Multiclass Classification with a Multihead Neural Network.* [arXiv:2609.31993](https://arxiv.org/abs/2609.31993) (2026).
+- PhD thesis: [*Theoretical and Machine Learning Approaches to Beyond General Relativity*](https://doi.org/10.11588/heidok.00036791), Universität Heidelberg, 2025.
+
 ## Run it
 
 ```bash
